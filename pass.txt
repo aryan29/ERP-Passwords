@@ -10,3 +10,268 @@ Successfully Logged for  BTECH1041218 20699
 Successfully Logged for  BTECH1041318 111299
 Successfully Logged for  BTECH1041418 140100
 Successfully Logged for  BTECH1041618 40199
+Successfully Logged for  BTECH1010019 140101
+Successfully Logged for  BTECH1010219 201201
+Successfully Logged for  BTECH1010319 170301
+4
+Successfully Logged for  BTECH1010419 91100
+5
+Successfully Logged for  BTECH1010519 150700
+6
+Successfully Logged for  BTECH1010619 231000
+7
+Successfully Logged for  BTECH1010719 131100
+8
+Successfully Logged for  BTECH1010819 20600
+9
+Successfully Logged for  BTECH1010919 181000
+10
+Successfully Logged for  BTECH1011019 80700
+11
+Successfully Logged for  BTECH1011119 130200
+12
+Successfully Logged for  BTECH1011219 251000
+13
+14
+15
+16
+Successfully Logged for  BTECH1011619 211200
+17
+18
+19
+Successfully Logged for  BTECH1011919 220900
+20
+Successfully Logged for  BTECH1012019 40701
+21
+Successfully Logged for  BTECH1012119 200701
+22
+Successfully Logged for  BTECH1012219 60300
+23
+Successfully Logged for  BTECH1012319 11001
+24
+25
+Successfully Logged for  BTECH1012519 220201
+26
+Successfully Logged for  BTECH1012619 80300
+27
+Successfully Logged for  BTECH1012719 21200
+28
+Successfully Logged for  BTECH1012819 240400
+29
+Successfully Logged for  BTECH1012919 120800
+30
+Successfully Logged for  BTECH1013019 240299
+31
+Successfully Logged for  BTECH1013119 110401
+32
+Successfully Logged for  BTECH1013219 90600
+33
+34
+35
+Successfully Logged for  BTECH1013519 220800
+36
+Successfully Logged for  BTECH1013619 191100
+37
+38
+Successfully Logged for  BTECH1013819 170301
+39
+Successfully Logged for  BTECH1013919 40101
+40
+Successfully Logged for  BTECH1014019 50900
+41
+42
+Successfully Logged for  BTECH1014219 181199
+43
+44
+Successfully Logged for  BTECH1014419 150100
+45
+Successfully Logged for  BTECH1014519 150401
+46
+Successfully Logged for  BTECH1014619 20299
+47
+Successfully Logged for  BTECH1014719 251199
+48
+Successfully Logged for  BTECH1014819 231001
+49
+Successfully Logged for  BTECH1014919 80801
+50
+Successfully Logged for  BTECH1015019 300100
+51
+Successfully Logged for  BTECH1015119 300401
+52
+Successfully Logged for  BTECH1015219 261001
+53
+Successfully Logged for  BTECH1015319 11200
+54
+55
+Successfully Logged for  BTECH1015519 250100
+56
+Successfully Logged for  BTECH1015619 150400
+57
+Successfully Logged for  BTECH1015719 60101
+58
+59
+Successfully Logged for  BTECH1015919 60401
+60
+61
+Successfully Logged for  BTECH1016119 130800
+62
+Successfully Logged for  BTECH1016219 11000
+63
+Successfully Logged for  BTECH1016319 170600
+64
+65
+Successfully Logged for  BTECH1016519 300901
+66
+67
+68
+Successfully Logged for  BTECH1016819 280500
+69
+Successfully Logged for  BTECH1016919 101201
+70
+Successfully Logged for  BTECH1017019 210601
+71
+72
+Successfully Logged for  BTECH1017219 140601
+73
+Successfully Logged for  BTECH1017319 140901
+74
+Successfully Logged for  BTECH1017419 121299
+75
+Successfully Logged for  BTECH1017519 11100
+76
+Successfully Logged for  BTECH1017619 120400
+77
+Successfully Logged for  BTECH1017719 70301
+78
+Successfully Logged for  BTECH1017819 131299
+79
+Successfully Logged for  BTECH1017919 290400
+80
+Successfully Logged for  BTECH1018019 130299
+81
+Successfully Logged for  BTECH1018119 120701
+82
+Successfully Logged for  BTECH1018219 240700
+83
+Successfully Logged for  BTECH1018319 230401
+84
+Successfully Logged for  BTECH1018419 30400
+85
+Successfully Logged for  BTECH1018519 11199
+86
+Successfully Logged for  BTECH1018619 31099
+87
+Successfully Logged for  BTECH1018719 10401
+88
+Successfully Logged for  BTECH1018819 20600
+89
+Successfully Logged for  BTECH1018919 300400
+90
+Successfully Logged for  BTECH1019019 270600
+91
+Successfully Logged for  BTECH1019119 201001
+92
+Successfully Logged for  BTECH1019219 130601
+93
+94
+Successfully Logged for  BTECH1019419 71100
+95
+Successfully Logged for  BTECH1019519 40901
+96
+Successfully Logged for  BTECH1019619 140900
+97
+98
+Successfully Logged for  BTECH1019819 20801
+99
+Successfully Logged for  BTECH1019919 40601
+100
+Successfully Logged for  BTECH1020019 221201
+101
+102
+Successfully Logged for  BTECH1020219 191299
+103
+Successfully Logged for  BTECH1020319 51299
+104
+Successfully Logged for  BTECH1020419 130100
+105
+Successfully Logged for  BTECH1020519 140500
+Successfully Logged for  BTECH1020819 71100
+Successfully Logged for  BTECH1020919 100100
+Successfully Logged for  BTECH1021019 140300
+Successfully Logged for  BTECH1021119 50901
+Successfully Logged for  BTECH1021219 191201
+Successfully Logged for  BTECH1021319 280100
+Successfully Logged for  BTECH1021419 40101
+115
+116
+Successfully Logged for  BTECH1021619 70401
+117
+118
+Successfully Logged for  BTECH1021819 90101
+119
+Successfully Logged for  BTECH1021919 120601
+120
+Successfully Logged for  BTECH1022019 160101
+121
+Successfully Logged for  BTECH1022119 221001
+122
+123
+124
+Successfully Logged for  BTECH1022419 120201
+125
+Successfully Logged for  BTECH1022519 250701
+126
+127
+Successfully Logged for  BTECH1022719 130101
+128
+Successfully Logged for  BTECH1022819 161100
+129
+Successfully Logged for  BTECH1022919 140501
+130
+Successfully Logged for  BTECH1023019 260201
+131
+Successfully Logged for  BTECH1023119 120401
+132
+Successfully Logged for  BTECH1023219 220999
+133
+134
+135
+Successfully Logged for  BTECH1023519 270901
+136
+Successfully Logged for  BTECH1023619 250301
+137
+Successfully Logged for  BTECH1023719 191000
+138
+Successfully Logged for  BTECH1023819 230601
+Successfully Logged for  BTECH1023919 201001
+Successfully Logged for  BTECH1024219 10201
+Successfully Logged for  BTECH1024319 270100
+Successfully Logged for  BTECH1024419 220901
+Successfully Logged for  BTECH1024519 241101
+Successfully Logged for  BTECH1024619 160601
+Successfully Logged for  BTECH1024719 271000
+Successfully Logged for  BTECH1024819 280201
+Successfully Logged for  BTECH1025219 141200
+Successfully Logged for  BTECH1025319 281001
+Successfully Logged for  BTECH1025419 161201
+Successfully Logged for  BTECH1025619 191000
+Successfully Logged for  BTECH1025719 251200
+Successfully Logged for  BTECH1025819 20901
+Successfully Logged for  BTECH1026619 70101
+Successfully Logged for  BTECH1026719 150301
+Successfully Logged for  BTECH1026819 20901
+Successfully Logged for  BTECH1026919 241201
+Successfully Logged for  BTECH1027119 151201
+Successfully Logged for  BTECH1043919 90200
+Successfully Logged for  BTECH1044219 230600
+Successfully Logged for  BTECH1044319 160100
+Successfully Logged for  BTECH1044519 281100
+Successfully Logged for  BTECH1044619 280300
+Successfully Logged for  BTECH1044719 110900
+Successfully Logged for  BTECH1044819 71099
+Successfully Logged for  BTECH1044919 80801
+Successfully Logged for  BTECH1045019 240101
+Successfully Logged for  BTECH1045119 270800
+Successfully Logged for  BTECH1045319 30801
+Successfully Logged for  BTECH1045419 260900
